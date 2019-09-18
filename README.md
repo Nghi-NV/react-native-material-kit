@@ -8,7 +8,7 @@
   <img src="http://xinthink.github.io/react-native-material-kit/images/logo_JetBrains_1.svg" alt="Built with JetBrains IDEs" width="64">
 </a>
 
-A set of UI components, in the purpose of introducing [Material Design][md] to apps built with [React Native][rn], quickly and painlessly.
+A set of UI components, in the purpose of introducing [Material Design][md] to apps built with [React Native][rn], quickly and painlessly
 
 [npm-badge]: https://img.shields.io/npm/v/react-native-material-kit.svg
 [npm]: https://www.npmjs.com/package/react-native-material-kit
